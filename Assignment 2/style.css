@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    gap: 400px;
+    background-color: black;
+    
+}
+#busimg{
+    height: 40px;
+}
+#text{
+    color: white;
+    padding: 10px;
+}
+#text2{
+    display: flex;
+   justify-content: center;
+   font-size: 50px;
+}
+#form{
+    font-size: 40px;
+}
